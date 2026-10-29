@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/nl-wetten",
   "title": "Nl Wetten",
   "description": "Netherlands national legislation — consolidated statute text, article by article, as it stood on…",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "websiteUrl": "https://pipeworx.io/packs/nl-wetten",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-nl-wetten",
